@@ -1,5 +1,6 @@
 ---
 title: Welcome to Cman's digital brain
+tags:
 ---
 
 This is a blank Quartz installation.
